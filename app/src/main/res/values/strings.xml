@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">myHump</string>
+    <string name="tile">myHump</string>
 </resources>
