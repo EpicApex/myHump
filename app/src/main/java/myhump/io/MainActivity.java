@@ -26,9 +26,9 @@ public class MainActivity extends AppCompatActivity {
         sensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
         gyroscopeSensor = sensorManager.getDefaultSensor(Sensor.TYPE_GYROSCOPE);
 
-//        for(int i=0; i<2; i++) {
-//            axisCoordinates[i] =
-//        }
+        for(int i=0; i<2; i++) {
+            axisCoordinates[i] =
+        }
 
 
         if (gyroscopeSensor != null)
